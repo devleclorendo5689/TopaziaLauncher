@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "TopaziaLauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Topazia",
+  "description": "Launcher Officiel de Topazia",
+  "author": "Lorendo https://www.youtube.com/channel/UCW77wkdKV2_rf9-INmE69JQ",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/devleclorendo5689",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/devleclorendo5689/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/devleclorendo5689/TopaziaLauncher.git"
   }
 }
